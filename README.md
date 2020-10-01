@@ -1,7 +1,7 @@
 The Brighton and Hove Python User Group Website
 ===============================================
 
-A very simple database-free website using the [Flask microframework](http://flask.pocoo.org).
+A very simple database-free website by using the [Flask microframework](http://flask.pocoo.org).
 
 You can see it running at [http://brightonpy.org](http://brightonpy.org)
 
